@@ -1,0 +1,4 @@
+{
+    "dockerhub-id":"rpillai/tests"
+    "build-script":"python run.py"
+}
